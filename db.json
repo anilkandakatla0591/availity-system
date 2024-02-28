@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "8ff57fc7-5fb9-411c-8335-5814ceeb34a1",
+      "firstName": "Anil Kumar",
+      "lastName": "Kandakatla",
+      "npiNumber": "NPI-9999999",
+      "address": "Address1",
+      "telephone": "09809009808",
+      "email": "anil.k.@gmail.com"
+    }
+  ]
+}
